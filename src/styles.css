@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.cuerpo{
+  background-color: rgb(253, 253, 253);
+}
+
+.fotohome{
+  width: 400px;
+  margin-top: 40px;
+  margin-left: 450px;
+}
+
+.titulo{
+  text-align: center;
+  font-family: cursive;
+  color: black;
+}

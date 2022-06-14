@@ -1,0 +1,133 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Earth",
+      "location": "Earth",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Morty Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Citadel of Ricks",
+      "location": "Earth",
+      "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Summer Smith",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "origin": "Earth (Replacement Dimension)",
+      "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Beth Smith",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Female",
+      "origin": "Earth (Replacement Dimension)",
+      "location": "Earth",
+      "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Jerry Smith",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Earth (Replacement Dimension)",
+      "location": "Earth",
+      "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+    },
+    {
+      "name": "Gerard",
+      "status": "Es un chico tranquilo",
+      "species": "",
+      "gender": "",
+      "origin": "",
+      "location": "",
+      "image": "",
+      "id": 6
+    },
+    {
+      "name": "Gerard",
+      "status": "Es un chico tranquilo",
+      "species": "",
+      "gender": "",
+      "origin": "",
+      "location": "",
+      "image": "",
+      "id": 7
+    },
+    {
+      "name": "Gerard",
+      "status": "Alive",
+      "species": "skgnaskd",
+      "gender": "Male",
+      "origin": "gasdgasg",
+      "location": "asdgasgd",
+      "image": "",
+      "id": 8
+    },
+    {
+      "name": "Gerard",
+      "status": "Alive",
+      "species": "skgnaskd",
+      "gender": "Male",
+      "origin": "gasdgasg",
+      "location": "asdgasgd",
+      "image": "",
+      "id": 9
+    },
+    {
+      "name": "Gerard",
+      "status": "Alive",
+      "species": "skgnaskd",
+      "gender": "Male",
+      "origin": "gasdgasg",
+      "location": "asdgasgd",
+      "image": "",
+      "id": 10
+    },
+    {
+      "name": "Gerard",
+      "status": "Alive",
+      "species": "skgnaskd",
+      "gender": "Male",
+      "origin": "gasdgasg",
+      "location": "asdgasgd",
+      "image": "",
+      "id": 11
+    },
+    {
+      "name": "Aida",
+      "status": "Alive",
+      "species": "skgnaskd",
+      "gender": "Female",
+      "origin": "gasdgasg",
+      "location": "asdgasgd",
+      "image": "",
+      "id": 12
+    },
+    {
+      "name": "Pedro",
+      "status": "Fallecido",
+      "species": "Personaje",
+      "gender": "Masculo",
+      "origin": "Desconocido",
+      "location": "Planeta Tierra",
+      "image": "",
+      "id": 13
+    }
+  ]
+}
